@@ -7,7 +7,7 @@ about:
   head: e33b17a
   archived: false
   latestVersion: v0.15.0
-  collectedAt: 2026-09-04T20:00:33Z
+  collectedAt: 2026-09-04T20:38:45Z
 timeline:
   created: 2018-02-12
   lastCommit: 2026-08-12
@@ -81,6 +81,69 @@ total:
   openIssue: 333
   commit: 1414
 ---
+path: /home/runner/.x-repo/github.com/rustwasm/wasm-pack
+collectedAt: 2026-09-04T20:38:45Z
+loc:
+  Rust:
+    code: 7040
+    comments: 167
+    blanks: 862
+    files: 65
+  Html:
+    code: 174
+    comments: 0
+    blanks: 2
+    files: 2
+  Sh:
+    code: 174
+    comments: 35
+    blanks: 45
+    files: 1
+  JavaScript:
+    code: 166
+    comments: 15
+    blanks: 30
+    files: 4
+  Css:
+    code: 78
+    comments: 0
+    blanks: 16
+    files: 1
+  Svg:
+    code: 72
+    comments: 0
+    blanks: 0
+    files: 1
+  Toml:
+    code: 66
+    comments: 5
+    blanks: 9
+    files: 5
+  Handlebars:
+    code: 46
+    comments: 0
+    blanks: 0
+    files: 1
+  Json:
+    code: 43
+    comments: 0
+    blanks: 0
+    files: 1
+  Xml:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3017
+    blanks: 1519
+    files: 41
+total:
+  code: 8000
+  comments: 3736
+  blanks: 2538
+  files: 123
 ---
 date: "2026-08-24"
 repo:
