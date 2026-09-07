@@ -5,13 +5,13 @@ about:
   head: e33b17a
   archived: false
   latestVersion: "v0.15.0"
-  collectedAt: 2026-09-07T05:58:03Z
+  collectedAt: 2026-09-07T18:36:12Z
 timeline:
   created: 2018-02-12
   lastCommit: 2026-08-12
   lastRelease: 2026-05-15
 popularity:
-  star: 7287
+  star: 7288
   watcher: 49
   fork: 487
   release: 27
@@ -80,7 +80,7 @@ total:
   commit: 1414
 ---
 path: /home/runner/.x-repo/github.com/rustwasm/wasm-pack
-collectedAt: 2026-09-07T05:58:04Z
+collectedAt: 2026-09-07T18:36:15Z
 loc:
   Rust:
     code: 7040
@@ -270,7 +270,7 @@ checks:
       - 'Warn: 6 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:58:04+00:00
+  collectedAt: 2026-09-07T18:36:16+00:00
   platform:
     darwin/arm64:
       name:  wasm-pack-v0.15.0-aarch64-apple-darwin.tar.gz
