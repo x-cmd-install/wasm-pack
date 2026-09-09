@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5649408,
       "digest": "sha256:cf62764a253de34c32d5f8c5655e0503f2f7773ee3674189343e339281a9a023",
-      "download_count": 829,
+      "download_count": 833,
       "created_at": "2026-05-15T08:20:59Z",
       "updated_at": "2026-05-15T08:21:00Z",
       "browser_download_url": "https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.0/wasm-pack-init.exe"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2479925,
       "digest": "sha256:0abff4a03d670b6c00ea31d0e1608a72407e355f3d3765e9c30eb45cd5b7e318",
-      "download_count": 45905,
+      "download_count": 46352,
       "created_at": "2026-05-15T08:21:01Z",
       "updated_at": "2026-05-15T08:21:02Z",
       "browser_download_url": "https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.0/wasm-pack-v0.15.0-aarch64-apple-darwin.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2766439,
       "digest": "sha256:e17ef0806381c3a0acb9c9ddad643a49facaa5a2ecf657a421d4d8f3357a24b7",
-      "download_count": 29186,
+      "download_count": 29368,
       "created_at": "2026-05-15T08:20:57Z",
       "updated_at": "2026-05-15T08:20:57Z",
       "browser_download_url": "https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.0/wasm-pack-v0.15.0-aarch64-unknown-linux-musl.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2664242,
       "digest": "sha256:d3f1a4a33e95f8f0d7801b024e08624c479999ac96aa150908b2394015cd0363",
-      "download_count": 12022,
+      "download_count": 12113,
       "created_at": "2026-05-15T08:21:00Z",
       "updated_at": "2026-05-15T08:21:01Z",
       "browser_download_url": "https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.0/wasm-pack-v0.15.0-x86_64-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2290392,
       "digest": "sha256:518dc51180c7bc864699c9279b3bc99025bc109123e0249a34ba34d130a509bf",
-      "download_count": 59291,
+      "download_count": 59765,
       "created_at": "2026-05-15T08:20:58Z",
       "updated_at": "2026-05-15T08:20:58Z",
       "browser_download_url": "https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.0/wasm-pack-v0.15.0-x86_64-pc-windows-msvc.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2881231,
       "digest": "sha256:c09f971ecaed9a2efc80fdcea7a00ef6b53c7fadc8c57d1f61b53a6aa66b668a",
-      "download_count": 950844,
+      "download_count": 960043,
       "created_at": "2026-05-15T08:20:56Z",
       "updated_at": "2026-05-15T08:20:56Z",
       "browser_download_url": "https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.0/wasm-pack-v0.15.0-x86_64-unknown-linux-musl.tar.gz"
