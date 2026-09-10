@@ -12,36 +12,7 @@
 x install wasm-pack
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/rustwasm/wasm-pack>
-- **Homepage**: <https://wasm-bindgen.github.io/wasm-pack/>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `v0.15.0` (2026-05-15)
-- **Last commit**: 2026-08-12
-- **Assets in release**: 6
-- **Published**: 2026-05-15T08:20:50Z
-
-## Popularity
-
-- **Stars**: 7,284 · **Forks**: 487 · **Open issues**: 928 · **Contributors**: 155
-
-## Totals (cumulative)
-
-- **Releases**: 27 · **Merged PRs**: 463 · **Open PRs**: 59 · **Closed issues**: 595 · **Open issues**: 333 · **Commits**: 1414
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 2 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
+## Code insight
 
 Total: **7,868** lines of code across **73** files in the top 5 languages.
 
@@ -63,13 +34,69 @@ Lowest-scoring checks:
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
+## Source
+
+- **Upstream**: <https://github.com/rustwasm/wasm-pack>
+- **Homepage**: <https://wasm-bindgen.github.io/wasm-pack/>
+- **License**: Apache-2.0
+
+## Release
+
+- **Latest**: `v0.15.0` (2026-05-15)
+- **Last commit**: 2026-08-12
+- **Assets in release**: 6
+
+## Popularity
+
+- **Stars**: 7,284 · **Forks**: 487 · **Open issues**: 928 · **Contributors**: 155
+
+## Totals (cumulative)
+
+- **Releases**: 27 · **Merged PRs**: 463 · **Open PRs**: 59 · **Closed issues**: 595 · **Open issues**: 333 · **Commits**: 1414
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 3 | 0 | 0 | 0 | 0 | 0 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [wasm-pack-init.exe](https://github.com/rustwasm/wasm-pack/releases/download/v0.15.0/wasm-pack-init.exe) | 5.4 MiB | `other` |
+| [wasm-pack-v0.15.0-aarch64-apple-darwin.tar.gz](https://github.com/rustwasm/wasm-pack/releases/download/v0.15.0/wasm-pack-v0.15.0-aarch64-apple-darwin.tar.gz) | 2.4 MiB | `native/darwin/arm64` |
+| [wasm-pack-v0.15.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/rustwasm/wasm-pack/releases/download/v0.15.0/wasm-pack-v0.15.0-aarch64-unknown-linux-musl.tar.gz) | 2.6 MiB | `native/linux/arm64/musl` |
+| [wasm-pack-v0.15.0-x86_64-apple-darwin.tar.gz](https://github.com/rustwasm/wasm-pack/releases/download/v0.15.0/wasm-pack-v0.15.0-x86_64-apple-darwin.tar.gz) | 2.5 MiB | `native/darwin/x64` |
+| [wasm-pack-v0.15.0-x86_64-pc-windows-msvc.tar.gz](https://github.com/rustwasm/wasm-pack/releases/download/v0.15.0/wasm-pack-v0.15.0-x86_64-pc-windows-msvc.tar.gz) | 2.2 MiB | `native/win/x64` |
+| [wasm-pack-v0.15.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/rustwasm/wasm-pack/releases/download/v0.15.0/wasm-pack-v0.15.0-x86_64-unknown-linux-musl.tar.gz) | 2.7 MiB | `native/linux/x64/musl` |
+
+## Distribution status
+
+Reported by **41** distros on [repology.org](https://repology.org/project/wasm-pack). **26** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.15.0` | ✅ latest |
+| Debian 14 | `0.15.0` | ✅ latest |
+| Arch | `0.15.0` | ✅ latest |
+| Homebrew | `0.15.0` | ✅ latest |
+| Nix unstable | `0.15.0` | ✅ latest |
+| Alpine edge | `0.15.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.13.1` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for wasm-pack lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `wasm-pack` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/wasm-pack.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/wasm-pack.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T06:11:52Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:38:14Z._
