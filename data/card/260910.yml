@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.15.0"
   latestRelease: "v0.15.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T06:11:33Z
+  collectedAt: 2026-09-10T20:38:07Z
 timeline:
   created: 2018-02-12
   lastCommit: 2026-08-12
@@ -84,7 +84,7 @@ total:
   commit: 1414
 ---
 path: /home/runner/.x-repo/github.com/rustwasm/wasm-pack
-collectedAt: 2026-09-10T06:11:37Z
+collectedAt: 2026-09-10T20:38:08Z
 loc:
   Rust:
     code: 7040
