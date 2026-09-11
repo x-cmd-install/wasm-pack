@@ -48,11 +48,11 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,283 · **Forks**: 487 · **Open issues**: 928 · **Contributors**: 155
+- **Stars**: 7,284 · **Forks**: 487 · **Open issues**: 929 · **Contributors**: 155
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 463 · **Open PRs**: 59 · **Closed issues**: 595 · **Open issues**: 333 · **Commits**: 1414
+- **Releases**: 27 · **Merged PRs**: 463 · **Open PRs**: 59 · **Closed issues**: 595 · **Open issues**: 334 · **Commits**: 1414
 
 ## Recent activity
 
@@ -99,4 +99,4 @@ Install metadata for wasm-pack lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:00:05Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:50:17Z._
