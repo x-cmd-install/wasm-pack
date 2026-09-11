@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.15.0"
   latestRelease: "v0.15.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:59:57Z
+  collectedAt: 2026-09-11T18:50:07Z
 timeline:
   created: 2018-02-12
   lastCommit: 2026-08-12
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-05-15
   lastPrerelease: 
 popularity:
-  star: 7283
+  star: 7284
   watcher: 49
   fork: 487
   release: 27
   contributor: 155
   pullRequest: 659
-  issue: 928
+  issue: 929
 language:
   Rust: 259743
   JavaScript: 4303
@@ -80,11 +80,11 @@ total:
   mergedPR: 463
   openPR: 59
   closedIssue: 595
-  openIssue: 333
+  openIssue: 334
   commit: 1414
 ---
 path: /home/runner/.x-repo/github.com/rustwasm/wasm-pack
-collectedAt: 2026-09-11T05:59:58Z
+collectedAt: 2026-09-11T18:50:09Z
 loc:
   Rust:
     code: 7040
