@@ -26,13 +26,13 @@ Total: **7,868** lines of code across **73** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.2 / 10**
+Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
+- **Maintained** (4/10) — 5 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 4
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,284 · **Forks**: 488 · **Open issues**: 930 · **Contributors**: 155
+- **Stars**: 7,283 · **Forks**: 488 · **Open issues**: 931 · **Contributors**: 155
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 463 · **Open PRs**: 60 · **Closed issues**: 595 · **Open issues**: 335 · **Commits**: 1414
+- **Releases**: 27 · **Merged PRs**: 463 · **Open PRs**: 60 · **Closed issues**: 595 · **Open issues**: 336 · **Commits**: 1414
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-20 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-21 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-26 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-21 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-22 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-27 | 3 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for wasm-pack lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:38:30Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:30:41Z._
