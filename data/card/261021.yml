@@ -30,51 +30,51 @@ recent:
   last30d:
     since: 2026-09-21
     release: 0
-    mergedPR: 0
-    openPR: 0
-    closedIssue: 0
-    openIssue: 0
-    commit: 0
+    mergedPR: 8
+    openPR: 7
+    closedIssue: 6
+    openIssue: 1
+    commit: 17
   last60d:
     since: 2026-08-22
     release: 0
-    mergedPR: 0
-    openPR: 0
-    closedIssue: 0
-    openIssue: 0
-    commit: 0
+    mergedPR: 8
+    openPR: 8
+    closedIssue: 6
+    openIssue: 4
+    commit: 17
   last90d:
     since: 2026-07-23
     release: 0
-    mergedPR: 0
-    openPR: 0
-    closedIssue: 0
-    openIssue: 0
-    commit: 0
+    mergedPR: 10
+    openPR: 11
+    closedIssue: 7
+    openIssue: 5
+    commit: 19
   last180d:
     since: 2026-04-24
     release: 1
-    mergedPR: 0
-    openPR: 0
-    closedIssue: 0
-    openIssue: 0
-    commit: 0
+    mergedPR: 31
+    openPR: 29
+    closedIssue: 17
+    openIssue: 13
+    commit: 40
   last360d:
     since: 2025-10-26
     release: 2
-    mergedPR: 0
-    openPR: 0
-    closedIssue: 0
-    openIssue: 0
-    commit: 0
+    mergedPR: 49
+    openPR: 56
+    closedIssue: 26
+    openIssue: 25
+    commit: 84
   last720d:
     since: 2024-10-31
     release: 2
-    mergedPR: 0
-    openPR: 0
-    closedIssue: 0
-    openIssue: 0
-    commit: 0
+    mergedPR: 54
+    openPR: 84
+    closedIssue: 38
+    openIssue: 83
+    commit: 104
 total:
   release: 27
   mergedPR: 471
