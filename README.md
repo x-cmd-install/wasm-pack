@@ -26,13 +26,13 @@ Total: **7,869** lines of code across **73** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5 / 10**
+Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (3/10) — 4 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 3
+- **Code-Review** (4/10) — Found 12/27 approved changesets -- score normalized to 4
+- **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,290 · **Forks**: 500 · **Open issues**: 932 · **Contributors**: 157
+- **Stars**: 7,291 · **Forks**: 493 · **Open issues**: 931 · **Contributors**: 157
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 471 · **Open PRs**: 58 · **Closed issues**: 597 · **Open issues**: 335 · **Commits**: 1430
+- **Releases**: 27 · **Merged PRs**: 471 · **Open PRs**: 57 · **Closed issues**: 600 · **Open issues**: 331 · **Commits**: 1431
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-23 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-25 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-30 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-24 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-26 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-31 | 2 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for wasm-pack lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:53:33Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:57:49Z._
