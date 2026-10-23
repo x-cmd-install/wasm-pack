@@ -33,7 +33,7 @@ Total: **7,869** lines of code across **73** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.15.0` (2026-05-15)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-23
 - **Assets in release**: 6
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **7,869** lines of code across **73** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 471 · **Open PRs**: 57 · **Closed issues**: 600 · **Open issues**: 332 · **Commits**: 1432
+- **Releases**: 27 · **Merged PRs**: 472 · **Open PRs**: 57 · **Closed issues**: 600 · **Open issues**: 332 · **Commits**: 1433
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 6 | 0 | 0 | 2 | 18 |
-| last60d | 2026-08-23 | 0 | 7 | 0 | 1 | 4 | 18 |
-| 90d | 2026-07-24 | 0 | 9 | 0 | 2 | 4 | 20 |
-| last180d | 2026-04-25 | 1 | 23 | 1 | 8 | 6 | 39 |
-| 360d | 2025-10-27 | 2 | 41 | 6 | 13 | 13 | 63 |
-| last720d | 2024-11-01 | 2 | 52 | 20 | 29 | 55 | 105 |
+| 30d | 2026-09-23 | 0 | 6 | 0 | 0 | 2 | 19 |
+| last60d | 2026-08-24 | 0 | 8 | 0 | 1 | 4 | 19 |
+| 90d | 2026-07-25 | 0 | 10 | 0 | 2 | 4 | 21 |
+| last180d | 2026-04-26 | 1 | 24 | 1 | 8 | 6 | 40 |
+| 360d | 2025-10-28 | 2 | 42 | 6 | 13 | 13 | 64 |
+| last720d | 2024-11-02 | 2 | 52 | 20 | 29 | 55 | 106 |
 
 ## Release assets
 
@@ -66,6 +66,20 @@ Total: **7,869** lines of code across **73** files in the top 5 languages.
 | [wasm-pack-v0.15.0-x86_64-pc-windows-msvc.tar.gz](https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.0/wasm-pack-v0.15.0-x86_64-pc-windows-msvc.tar.gz) | 2.2 MiB | `native/win/x64` |
 | [wasm-pack-v0.15.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.0/wasm-pack-v0.15.0-x86_64-unknown-linux-musl.tar.gz) | 2.7 MiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **47** distros on [repology.org](https://repology.org/project/wasm-pack). **33** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.15.0` | ✅ latest |
+| Debian 14 | `0.15.0` | ✅ latest |
+| Arch | `0.15.0` | ✅ latest |
+| Homebrew | `0.15.0` | ✅ latest |
+| Nix unstable | `0.15.0` | ✅ latest |
+| Alpine edge | `0.15.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.13.1` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for wasm-pack lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `wasm-pack` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -75,4 +89,4 @@ Install metadata for wasm-pack lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:44:39Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:47:47Z._
