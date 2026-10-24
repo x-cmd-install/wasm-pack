@@ -33,7 +33,7 @@ Total: **7,869** lines of code across **73** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.15.0` (2026-05-15)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-24
 - **Assets in release**: 6
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **7,869** lines of code across **73** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 472 · **Open PRs**: 57 · **Closed issues**: 600 · **Open issues**: 332 · **Commits**: 1433
+- **Releases**: 27 · **Merged PRs**: 472 · **Open PRs**: 57 · **Closed issues**: 600 · **Open issues**: 332 · **Commits**: 1438
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 6 | 0 | 0 | 2 | 19 |
-| last60d | 2026-08-24 | 0 | 8 | 0 | 1 | 4 | 19 |
-| 90d | 2026-07-25 | 0 | 10 | 0 | 2 | 4 | 21 |
-| last180d | 2026-04-26 | 1 | 24 | 1 | 8 | 6 | 40 |
-| 360d | 2025-10-28 | 2 | 42 | 6 | 13 | 13 | 64 |
-| last720d | 2024-11-02 | 2 | 52 | 20 | 29 | 55 | 106 |
+| 30d | 2026-09-24 | 0 | 6 | 0 | 0 | 2 | 24 |
+| last60d | 2026-08-25 | 0 | 8 | 0 | 1 | 4 | 24 |
+| 90d | 2026-07-26 | 0 | 10 | 0 | 2 | 4 | 26 |
+| last180d | 2026-04-27 | 1 | 23 | 1 | 8 | 6 | 45 |
+| 360d | 2025-10-29 | 2 | 42 | 6 | 13 | 13 | 69 |
+| last720d | 2024-11-03 | 2 | 52 | 20 | 29 | 55 | 108 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for wasm-pack lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:47:47Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:37:13Z._
