@@ -33,27 +33,27 @@ Total: **7,869** lines of code across **73** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.15.0` (2026-05-15)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-10-27
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 7,294 · **Forks**: 491 · **Open issues**: 932 · **Contributors**: 157
+- **Stars**: 7,293 · **Forks**: 492 · **Open issues**: 932 · **Contributors**: 157
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 472 · **Open PRs**: 57 · **Closed issues**: 600 · **Open issues**: 332 · **Commits**: 1438
+- **Releases**: 27 · **Merged PRs**: 472 · **Open PRs**: 58 · **Closed issues**: 600 · **Open issues**: 332 · **Commits**: 1439
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 6 | 0 | 0 | 2 | 24 |
-| last60d | 2026-08-28 | 0 | 8 | 0 | 1 | 4 | 24 |
-| 90d | 2026-07-29 | 0 | 10 | 0 | 2 | 4 | 26 |
-| last180d | 2026-04-30 | 1 | 21 | 1 | 8 | 6 | 38 |
-| 360d | 2025-11-01 | 2 | 42 | 6 | 13 | 13 | 69 |
-| last720d | 2024-11-06 | 2 | 52 | 20 | 29 | 53 | 108 |
+| 30d | 2026-09-28 | 0 | 6 | 1 | 0 | 2 | 25 |
+| last60d | 2026-08-29 | 0 | 8 | 1 | 1 | 4 | 25 |
+| 90d | 2026-07-30 | 0 | 9 | 1 | 1 | 4 | 27 |
+| last180d | 2026-05-01 | 1 | 21 | 2 | 8 | 6 | 39 |
+| 360d | 2025-11-02 | 2 | 42 | 7 | 13 | 13 | 70 |
+| last720d | 2024-11-07 | 2 | 52 | 21 | 29 | 51 | 109 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for wasm-pack lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:07:25Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:39:53Z._
