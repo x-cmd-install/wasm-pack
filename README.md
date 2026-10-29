@@ -48,12 +48,12 @@ Total: **7,869** lines of code across **73** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 6 | 1 | 0 | 2 | 25 |
-| last60d | 2026-08-29 | 0 | 8 | 1 | 1 | 4 | 25 |
-| 90d | 2026-07-30 | 0 | 9 | 1 | 1 | 4 | 27 |
-| last180d | 2026-05-01 | 1 | 21 | 2 | 8 | 6 | 39 |
-| 360d | 2025-11-02 | 2 | 42 | 7 | 13 | 13 | 70 |
-| last720d | 2024-11-07 | 2 | 52 | 21 | 29 | 51 | 109 |
+| 30d | 2026-09-29 | 0 | 6 | 1 | 0 | 2 | 25 |
+| last60d | 2026-08-30 | 0 | 8 | 1 | 1 | 4 | 25 |
+| 90d | 2026-07-31 | 0 | 9 | 1 | 1 | 4 | 27 |
+| last180d | 2026-05-02 | 1 | 21 | 2 | 8 | 6 | 39 |
+| 360d | 2025-11-03 | 2 | 42 | 6 | 13 | 12 | 70 |
+| last720d | 2024-11-08 | 2 | 52 | 21 | 29 | 50 | 109 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for wasm-pack lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:39:53Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:51:45Z._
