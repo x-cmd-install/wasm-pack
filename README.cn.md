@@ -14,11 +14,11 @@ x install wasm-pack
 
 ## 代码洞察
 
-合计: **7,869** 行代码（覆盖前 5 种语言、共 **73** 个文件）。
+合计: **7,988** 行代码（覆盖前 5 种语言、共 **73** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 7,042 | 167 | 862 | 65 |
+| Rust | 7,161 | 168 | 870 | 65 |
 | Html | 174 | 0 | 2 | 2 |
 | Sh | 174 | 35 | 45 | 1 |
 | JavaScript | 165 | 15 | 29 | 4 |
@@ -32,39 +32,41 @@ x install wasm-pack
 
 ## 发布
 
-- **最新版本**: `v0.15.0` (2026-05-15)
-- **最近提交**: 2026-10-27
-- **Release 含资产**: 6 个
+- **最新版本**: `v0.15.1` (2026-10-30)
+- **最近提交**: 2026-10-30
+- **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 7,293 · **Fork**: 492 · **开放 issue**: 932 · **贡献者**: 157
+- **Star**: 7,294 · **Fork**: 492 · **开放 issue**: 932 · **贡献者**: 158
 
 ## 累计统计
 
-- **发布数**: 27 · **已合并 PR**: 472 · **开放 PR**: 58 · **已关闭 issue**: 600 · **开放 issue**: 332 · **提交数**: 1439
+- **发布数**: 28 · **已合并 PR**: 477 · **开放 PR**: 57 · **已关闭 issue**: 601 · **开放 issue**: 331 · **提交数**: 1445
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 6 | 1 | 0 | 2 | 25 |
-| last60d | 2026-08-30 | 0 | 8 | 1 | 1 | 4 | 25 |
-| 90d | 2026-07-31 | 0 | 9 | 1 | 1 | 4 | 27 |
-| last180d | 2026-05-02 | 1 | 21 | 2 | 8 | 6 | 39 |
-| 360d | 2025-11-03 | 2 | 42 | 6 | 13 | 12 | 70 |
-| last720d | 2024-11-08 | 2 | 52 | 21 | 29 | 50 | 109 |
+| 30d | 2026-09-30 | 1 | 10 | 1 | 0 | 2 | 31 |
+| last60d | 2026-08-31 | 1 | 12 | 1 | 1 | 4 | 31 |
+| 90d | 2026-08-01 | 1 | 13 | 1 | 1 | 4 | 33 |
+| last180d | 2026-05-03 | 2 | 25 | 2 | 8 | 6 | 45 |
+| 360d | 2025-11-04 | 3 | 47 | 5 | 13 | 12 | 76 |
+| last720d | 2024-11-09 | 3 | 57 | 20 | 29 | 50 | 115 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [wasm-pack-init.exe](https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.0/wasm-pack-init.exe) | 5.4 MiB | `other` |
-| [wasm-pack-v0.15.0-aarch64-apple-darwin.tar.gz](https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.0/wasm-pack-v0.15.0-aarch64-apple-darwin.tar.gz) | 2.4 MiB | `native/darwin/arm64` |
-| [wasm-pack-v0.15.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.0/wasm-pack-v0.15.0-aarch64-unknown-linux-musl.tar.gz) | 2.6 MiB | `native/linux/arm64/musl` |
-| [wasm-pack-v0.15.0-x86_64-apple-darwin.tar.gz](https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.0/wasm-pack-v0.15.0-x86_64-apple-darwin.tar.gz) | 2.5 MiB | `native/darwin/x64` |
-| [wasm-pack-v0.15.0-x86_64-pc-windows-msvc.tar.gz](https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.0/wasm-pack-v0.15.0-x86_64-pc-windows-msvc.tar.gz) | 2.2 MiB | `native/win/x64` |
-| [wasm-pack-v0.15.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.0/wasm-pack-v0.15.0-x86_64-unknown-linux-musl.tar.gz) | 2.7 MiB | `native/linux/x64/musl` |
+| [wasm-pack-init-arm64.exe](https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.1/wasm-pack-init-arm64.exe) | 4.7 MiB | `other` |
+| [wasm-pack-init.exe](https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.1/wasm-pack-init.exe) | 5.4 MiB | `other` |
+| [wasm-pack-v0.15.1-aarch64-apple-darwin.tar.gz](https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.1/wasm-pack-v0.15.1-aarch64-apple-darwin.tar.gz) | 2.3 MiB | `native/darwin/arm64` |
+| [wasm-pack-v0.15.1-aarch64-pc-windows-msvc.tar.gz](https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.1/wasm-pack-v0.15.1-aarch64-pc-windows-msvc.tar.gz) | 2.1 MiB | `native/win/arm64` |
+| [wasm-pack-v0.15.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.1/wasm-pack-v0.15.1-aarch64-unknown-linux-musl.tar.gz) | 2.6 MiB | `native/linux/arm64/musl` |
+| [wasm-pack-v0.15.1-x86_64-apple-darwin.tar.gz](https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.1/wasm-pack-v0.15.1-x86_64-apple-darwin.tar.gz) | 2.5 MiB | `native/darwin/x64` |
+| [wasm-pack-v0.15.1-x86_64-pc-windows-msvc.tar.gz](https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.1/wasm-pack-v0.15.1-x86_64-pc-windows-msvc.tar.gz) | 2.2 MiB | `native/win/x64` |
+| [wasm-pack-v0.15.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/wasm-bindgen/wasm-pack/releases/download/v0.15.1/wasm-pack-v0.15.1-x86_64-unknown-linux-musl.tar.gz) | 2.8 MiB | `native/linux/x64/musl` |
 
 ## 发行版状态
 
@@ -89,4 +91,4 @@ wasm-pack 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261029.yml` · 2026-10-29T06:51:45Z._
+_数据快照: `data/card/261030.yml` · 2026-10-30T06:54:53Z._
