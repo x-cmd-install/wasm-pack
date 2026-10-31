@@ -1,3 +1,16 @@
+- repo: nix_stable_25_11
+  srcname: wasm-pack
+  visiblename: wasm-pack
+  version: 0.15.0
+  origversion: null
+  status: outdated
+  summary: Utility that builds rust-generated WebAssembly package
+  maintainers:
+    - david@davidslab.com
+    - hythera@github
+  licenses:
+    - Apache-2.0
+    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: wasm-pack
@@ -96,7 +109,7 @@
   visiblename: wasm-pack
   version: 0.15.0
   origversion: 0.15.0-r1
-  status: newest
+  status: outdated
   summary: rust to wasm build tool
   maintainers:
     - ncopa@alpinelinux.org
@@ -109,7 +122,7 @@
   visiblename: wasm-pack
   version: 0.15.0
   origversion: 0.15.0-r4
-  status: newest
+  status: outdated
   summary: rust to wasm build tool
   maintainers:
     - ncopa@alpinelinux.org
@@ -123,7 +136,7 @@
   visiblename: wasm-pack
   version: 0.15.0
   origversion: 0.15.0-alt1
-  status: newest
+  status: outdated
   summary: Rust to WebAssembly workflow tool
   maintainers:
     - lav@altlinux.org
@@ -138,7 +151,7 @@
   visiblename: wasm-pack
   version: 0.15.0
   origversion: 0.15.0-2
-  status: newest
+  status: outdated
   summary: Your favorite rust -> wasm workflow tool!
   licenses:
     - MIT
@@ -149,7 +162,7 @@
   visiblename: wasm-pack-bin
   version: 0.15.0
   origversion: 0.15.0-1
-  status: newest
+  status: outdated
   summary: Your favorite Rust -> Wasm workflow tool
   maintainers:
     - filmroellchen@aur
@@ -183,7 +196,7 @@
   subrepo: contrib
   srcname: wasm-pack
   visiblename: wasm-pack
-  version: 0.15.0
+  version: 0.15.1
   origversion: null
   status: newest
   summary: Your favorite rust -> wasm workflow tool!
@@ -197,7 +210,7 @@
   visiblename: wasm-pack
   version: 0.15.0
   origversion: 0.15.0+ds-2
-  status: newest
+  status: outdated
   maintainers:
     - dr@jones.dk
   categories:
@@ -210,7 +223,7 @@
   visiblename: wasm-pack
   version: 0.15.0
   origversion: 0.15.0+ds-2
-  status: newest
+  status: outdated
   maintainers:
     - dr@jones.dk
   categories:
@@ -223,7 +236,7 @@
   visiblename: wasm-pack
   version: 0.15.0
   origversion: 0.15.0+ds-2
-  status: newest
+  status: outdated
   maintainers:
     - dr@jones.dk
   categories:
@@ -232,8 +245,8 @@
   srcname: www/wasm-pack
   binname: wasm-pack
   visiblename: www/wasm-pack
-  version: 0.15.0
-  origversion: 0.15.0_4
+  version: 0.15.1
+  origversion: null
   status: newest
   summary: Workflow tool for Rust-generated WebAssembly
   maintainers:
@@ -243,7 +256,7 @@
 - repo: homebrew
   srcname: wasm-pack
   visiblename: wasm-pack
-  version: 0.15.0
+  version: 0.15.1
   origversion: null
   status: newest
   summary: Your favorite rust -> wasm workflow tool!
@@ -262,7 +275,7 @@
   visiblename: wasm-pack
   version: 0.15.0
   origversion: 0.15.0+ds-2
-  status: newest
+  status: outdated
   maintainers:
     - dr@jones.dk
   categories:
@@ -271,7 +284,7 @@
   srcname: devel/wasm-pack
   binname: wasm-pack
   visiblename: wasm-pack
-  version: 0.15.0
+  version: 0.15.1
   origversion: null
   status: newest
   summary: your favorite Rust -> WASM workflow tool!
@@ -288,7 +301,7 @@
   visiblename: wasm-pack
   version: 0.15.0
   origversion: 0.15.0-2
-  status: newest
+  status: outdated
   summary: Your favorite rust -> wasm workflow tool!
   licenses:
     - MIT
@@ -300,7 +313,7 @@
   visiblename: wasm-pack
   version: 0.15.0
   origversion: 0.15.0-2
-  status: newest
+  status: outdated
   summary: Your favorite rust -> wasm workflow tool!
   licenses:
     - MIT
@@ -312,7 +325,7 @@
   visiblename: wasm-pack
   version: 0.15.0
   origversion: 0.15.0-2
-  status: newest
+  status: outdated
   summary: Your favorite rust -> wasm workflow tool!
   licenses:
     - MIT
@@ -323,7 +336,7 @@
   visiblename: mingw-w64-clang-x86_64-wasm-pack
   version: 0.15.0
   origversion: 0.15.0-1
-  status: newest
+  status: outdated
   summary: Your favorite rust -> wasm workflow tool! (mingw-w64)
   licenses:
     - spdx:MIT OR Apache-2.0
@@ -333,7 +346,7 @@
   visiblename: mingw-w64-clang-x86_64-wasm-pack-docs
   version: 0.15.0
   origversion: 0.15.0-1
-  status: newest
+  status: outdated
   summary: Your favorite rust -> wasm workflow tool! (mingw-w64) (Documentation)
   licenses:
     - spdx:MIT OR Apache-2.0
@@ -343,7 +356,7 @@
   visiblename: mingw-w64-clang-aarch64-wasm-pack
   version: 0.15.0
   origversion: 0.15.0-1
-  status: newest
+  status: outdated
   summary: Your favorite rust -> wasm workflow tool! (mingw-w64)
   licenses:
     - spdx:MIT OR Apache-2.0
@@ -353,7 +366,7 @@
   visiblename: mingw-w64-clang-aarch64-wasm-pack-docs
   version: 0.15.0
   origversion: 0.15.0-1
-  status: newest
+  status: outdated
   summary: Your favorite rust -> wasm workflow tool! (mingw-w64) (Documentation)
   licenses:
     - spdx:MIT OR Apache-2.0
@@ -363,7 +376,7 @@
   visiblename: mingw-w64-ucrt-x86_64-wasm-pack
   version: 0.15.0
   origversion: 0.15.0-1
-  status: newest
+  status: outdated
   summary: Your favorite rust -> wasm workflow tool! (mingw-w64)
   licenses:
     - spdx:MIT OR Apache-2.0
@@ -373,7 +386,7 @@
   visiblename: mingw-w64-ucrt-x86_64-wasm-pack-docs
   version: 0.15.0
   origversion: 0.15.0-1
-  status: newest
+  status: outdated
   summary: Your favorite rust -> wasm workflow tool! (mingw-w64) (Documentation)
   licenses:
     - spdx:MIT OR Apache-2.0
@@ -413,38 +426,12 @@
   licenses:
     - Apache-2.0
     - MIT
-- repo: nix_stable_25_11
-  srcname: wasm-pack
-  visiblename: wasm-pack
-  version: 0.15.0
-  origversion: null
-  status: newest
-  summary: Utility that builds rust-generated WebAssembly package
-  maintainers:
-    - david@davidslab.com
-    - hythera@github
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: ubuntu_26_10
-  subrepo: stonking/universe
-  srcname: wasm-pack
-  binnames:
-    - wasm-pack
-  visiblename: wasm-pack
-  version: 0.15.0
-  origversion: 0.15.0+ds-2
-  status: newest
-  maintainers:
-    - dr@jones.dk
-  categories:
-    - universe/javascript
 - repo: nix_stable_26_05
   srcname: wasm-pack
   visiblename: wasm-pack
   version: 0.15.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Utility that builds rust-generated WebAssembly package
   maintainers:
     - david@davidslab.com
@@ -457,7 +444,7 @@
   visiblename: wasm-pack
   version: 0.15.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Utility that builds rust-generated WebAssembly package
   maintainers:
     - david@davidslab.com
@@ -488,7 +475,7 @@
   visiblename: wasm-pack
   version: 0.15.0
   origversion: 0.15.0-2
-  status: newest
+  status: outdated
   summary: Your favorite rust -> wasm workflow tool!
   licenses:
     - MIT
@@ -501,7 +488,7 @@
   visiblename: wasm-pack
   version: 0.15.0
   origversion: 0.15.0+ds-2
-  status: newest
+  status: outdated
   maintainers:
     - dr@jones.dk
   categories:
@@ -512,7 +499,7 @@
   visiblename: wasm-pack
   version: 0.15.0
   origversion: 0.15.0-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Your favorite Rust → Wasm workflow tool!
   maintainers:
     - cypress@fyralabs.com
@@ -526,7 +513,7 @@
   visiblename: wasm-pack
   version: 0.15.0
   origversion: 0.15.0-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Your favorite Rust → Wasm workflow tool!
   maintainers:
     - cypress@fyralabs.com
@@ -540,7 +527,7 @@
   visiblename: wasm-pack-debuginfo
   version: 0.15.0
   origversion: 0.15.0-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug information for package wasm-pack
   maintainers:
     - cypress@fyralabs.com
@@ -554,7 +541,7 @@
   visiblename: wasm-pack-debuginfo
   version: 0.15.0
   origversion: 0.15.0-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug information for package wasm-pack
   maintainers:
     - cypress@fyralabs.com
@@ -568,7 +555,7 @@
   visiblename: wasm-pack-debugsource
   version: 0.15.0
   origversion: 0.15.0-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug sources for package wasm-pack
   maintainers:
     - cypress@fyralabs.com
@@ -582,7 +569,7 @@
   visiblename: wasm-pack-debugsource
   version: 0.15.0
   origversion: 0.15.0-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug sources for package wasm-pack
   maintainers:
     - cypress@fyralabs.com
@@ -590,3 +577,16 @@
     - (MIT OR Apache-2.0) AND (MIT OR Apache-2.0) AND Unicode-3.0 AND (0BSD OR MIT OR Apache-2.0) AND Apache-2.0 AND (Apache-2.0 AND ISC) AND (Apache-2.0 OR ISC OR MIT) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND BSD-3-Clause AND (CC0-1.0 OR MIT-0 OR Apache-2.0) AND CDLA-Permissive-2.0 AND ISC AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0 OR LGPL-2.1-or-later) AND (MIT OR Zlib OR Apache-2.0) AND Unicode-3.0 AND (Unlicense OR MIT) AND (Zlib OR Apache-2.0 OR MIT)
   categories:
     - Development/Debug
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: wasm-pack
+  binnames:
+    - wasm-pack
+  visiblename: wasm-pack
+  version: 0.15.0
+  origversion: 0.15.0+ds-2
+  status: outdated
+  maintainers:
+    - dr@jones.dk
+  categories:
+    - universe/javascript
