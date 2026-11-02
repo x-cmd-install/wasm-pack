@@ -1,13 +1,3 @@
-- repo: crux_37
-  subrepo: contrib
-  srcname: wasm-pack
-  visiblename: wasm-pack
-  version: 0.13.1
-  origversion: null
-  status: outdated
-  summary: Your favorite rust -> wasm workflow tool!
-  maintainers:
-    - tbier@posteo.de
 - repo: raspbian_testing
   subrepo: main
   srcname: wasm-pack
@@ -21,6 +11,41 @@
     - dr@jones.dk
   categories:
     - javascript
+- repo: arch
+  subrepo: extra
+  srcname: wasm-pack
+  binname: wasm-pack
+  visiblename: wasm-pack
+  version: 0.15.1
+  origversion: 0.15.1-1
+  status: newest
+  summary: Your favorite rust -> wasm workflow tool!
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: aur
+  srcname: wasm-pack-bin
+  binname: wasm-pack-bin
+  visiblename: wasm-pack-bin
+  version: 0.15.0
+  origversion: 0.15.0-1
+  status: outdated
+  summary: Your favorite Rust -> Wasm workflow tool
+  maintainers:
+    - filmroellchen@aur
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: crux_37
+  subrepo: contrib
+  srcname: wasm-pack
+  visiblename: wasm-pack
+  version: 0.13.1
+  origversion: null
+  status: outdated
+  summary: Your favorite rust -> wasm workflow tool!
+  maintainers:
+    - tbier@posteo.de
 - repo: alpine_3_17
   subrepo: community
   srcname: wasm-pack
@@ -34,6 +59,19 @@
     - alice@ayaya.dev
   licenses:
     - Apache-2.0
+- repo: aur
+  srcname: wasm-pack-git
+  binname: wasm-pack-git
+  visiblename: wasm-pack-git
+  version: 0.14.0.1390
+  origversion: 0.14.0.1390-1
+  status: rolling
+  summary: Your favorite rust -> wasm workflow tool!
+  maintainers:
+    - frostu8@aur
+  licenses:
+    - Apache
+    - MIT
 - repo: alpine_3_18
   subrepo: community
   srcname: wasm-pack
@@ -154,44 +192,6 @@
     - MIT and Apache-2.0
   categories:
     - System/Configuration/Other
-- repo: arch
-  subrepo: extra
-  srcname: wasm-pack
-  binname: wasm-pack
-  visiblename: wasm-pack
-  version: 0.15.1
-  origversion: 0.15.1-1
-  status: newest
-  summary: Your favorite rust -> wasm workflow tool!
-  licenses:
-    - MIT
-    - Apache-2.0
-- repo: aur
-  srcname: wasm-pack-bin
-  binname: wasm-pack-bin
-  visiblename: wasm-pack-bin
-  version: 0.15.0
-  origversion: 0.15.0-1
-  status: outdated
-  summary: Your favorite Rust -> Wasm workflow tool
-  maintainers:
-    - filmroellchen@aur
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: aur
-  srcname: wasm-pack-git
-  binname: wasm-pack-git
-  visiblename: wasm-pack-git
-  version: 0.14.0.1390
-  origversion: 0.14.0.1390-1
-  status: rolling
-  summary: Your favorite rust -> wasm workflow tool!
-  maintainers:
-    - frostu8@aur
-  licenses:
-    - Apache
-    - MIT
 - repo: crux_38
   subrepo: contrib
   srcname: wasm-pack
@@ -312,25 +312,25 @@
   srcname: wasm-pack
   binname: wasm-pack
   visiblename: wasm-pack
-  version: 0.15.0
-  origversion: 0.15.0-2
+  version: 0.12.1
+  origversion: 0.12.1-1
   status: outdated
   summary: Your favorite rust -> wasm workflow tool!
   licenses:
     - MIT
-    - Apache-2.0
+    - Apache
 - repo: manjaro_testing
   subrepo: extra
   srcname: wasm-pack
   binname: wasm-pack
   visiblename: wasm-pack
-  version: 0.15.0
-  origversion: 0.15.0-2
+  version: 0.12.1
+  origversion: 0.12.1-1
   status: outdated
   summary: Your favorite rust -> wasm workflow tool!
   licenses:
     - MIT
-    - Apache-2.0
+    - Apache
 - repo: manjaro_unstable
   subrepo: extra
   srcname: wasm-pack
