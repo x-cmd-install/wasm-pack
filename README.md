@@ -38,7 +38,7 @@ Total: **7,988** lines of code across **73** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,296 · **Forks**: 493 · **Open issues**: 932 · **Contributors**: 158
+- **Stars**: 7,298 · **Forks**: 493 · **Open issues**: 932 · **Contributors**: 158
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **7,988** lines of code across **73** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 10 | 1 | 0 | 2 | 31 |
-| last60d | 2026-09-02 | 1 | 12 | 1 | 1 | 4 | 31 |
-| 90d | 2026-08-03 | 1 | 13 | 1 | 1 | 4 | 32 |
-| last180d | 2026-05-05 | 2 | 25 | 2 | 7 | 6 | 45 |
-| 360d | 2025-11-06 | 3 | 47 | 5 | 13 | 12 | 76 |
-| last720d | 2024-11-11 | 3 | 57 | 20 | 29 | 50 | 115 |
+| 30d | 2026-10-03 | 1 | 10 | 1 | 0 | 2 | 31 |
+| last60d | 2026-09-03 | 1 | 12 | 1 | 1 | 4 | 31 |
+| 90d | 2026-08-04 | 1 | 13 | 1 | 1 | 4 | 32 |
+| last180d | 2026-05-06 | 2 | 25 | 2 | 7 | 6 | 45 |
+| 360d | 2025-11-07 | 3 | 47 | 5 | 13 | 12 | 76 |
+| last720d | 2024-11-12 | 3 | 57 | 20 | 29 | 49 | 115 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for wasm-pack lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:09:18Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:13:43Z._
