@@ -38,7 +38,7 @@ Total: **7,988** lines of code across **73** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,300 · **Forks**: 492 · **Open issues**: 933 · **Contributors**: 158
+- **Stars**: 7,301 · **Forks**: 492 · **Open issues**: 933 · **Contributors**: 158
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **7,988** lines of code across **73** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 10 | 1 | 1 | 2 | 31 |
-| last60d | 2026-09-07 | 1 | 12 | 1 | 2 | 4 | 31 |
-| 90d | 2026-08-08 | 1 | 13 | 1 | 2 | 4 | 32 |
-| last180d | 2026-05-10 | 2 | 25 | 2 | 8 | 6 | 45 |
-| 360d | 2025-11-11 | 3 | 46 | 5 | 14 | 12 | 76 |
-| last720d | 2024-11-16 | 3 | 57 | 20 | 30 | 49 | 115 |
+| 30d | 2026-10-08 | 1 | 10 | 1 | 1 | 2 | 31 |
+| last60d | 2026-09-08 | 1 | 12 | 1 | 2 | 4 | 31 |
+| 90d | 2026-08-09 | 1 | 13 | 1 | 2 | 4 | 32 |
+| last180d | 2026-05-11 | 2 | 25 | 2 | 6 | 6 | 45 |
+| 360d | 2025-11-12 | 3 | 46 | 4 | 14 | 12 | 76 |
+| last720d | 2024-11-17 | 3 | 57 | 20 | 30 | 49 | 115 |
 
 ## Release assets
 
@@ -70,7 +70,7 @@ Total: **7,988** lines of code across **73** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **48** distros on [repology.org](https://repology.org/project/wasm-pack). **22** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
+Reported by **49** distros on [repology.org](https://repology.org/project/wasm-pack). **23** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for wasm-pack lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:46:07Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:04:00Z._
