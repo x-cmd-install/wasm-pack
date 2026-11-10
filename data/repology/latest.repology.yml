@@ -1,52 +1,16 @@
-- repo: manjaro_unstable
-  subrepo: extra
+- repo: debian_14
+  subrepo: forky/main
   srcname: wasm-pack
-  binname: wasm-pack
-  visiblename: wasm-pack
-  version: 0.15.1
-  origversion: 0.15.1-1
-  status: newest
-  summary: Your favorite rust -> wasm workflow tool!
-  licenses:
-    - MIT
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: wasm-pack
-  visiblename: wasm-pack
-  version: 0.13.1
-  origversion: null
-  status: outdated
-  summary: Utility that builds rust-generated WebAssembly package
-  maintainers:
-    - david@davidslab.com
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: wasm-pack
-  binname: wasm-pack
-  visiblename: wasm-pack
-  version: 0.13.0
-  origversion: 0.13.0-r1
-  status: outdated
-  summary: rust to wasm build tool
-  maintainers:
-    - ncopa@alpinelinux.org
-  licenses:
-    - Apache-2.0
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: wasm-pack
-  binname: wasm-pack
+  binnames:
+    - wasm-pack
   visiblename: wasm-pack
   version: 0.15.0
-  origversion: 0.15.0-2
+  origversion: 0.15.0+ds-2
   status: outdated
-  summary: Your favorite rust -> wasm workflow tool!
-  licenses:
-    - MIT
-    - Apache-2.0
+  maintainers:
+    - dr@jones.dk
+  categories:
+    - javascript
 - repo: alpine_3_17
   subrepo: community
   srcname: wasm-pack
@@ -59,6 +23,18 @@
   maintainers:
     - alice@ayaya.dev
   licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: wasm-pack
+  binname: wasm-pack
+  visiblename: wasm-pack
+  version: 0.15.1
+  origversion: 0.15.1-1
+  status: newest
+  summary: Your favorite rust -> wasm workflow tool!
+  licenses:
+    - MIT
     - Apache-2.0
 - repo: alpine_3_18
   subrepo: community
@@ -93,6 +69,19 @@
   visiblename: wasm-pack
   version: 0.12.1
   origversion: 0.12.1-r2
+  status: outdated
+  summary: rust to wasm build tool
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: wasm-pack
+  binname: wasm-pack
+  visiblename: wasm-pack
+  version: 0.13.0
+  origversion: 0.13.0-r1
   status: outdated
   summary: rust to wasm build tool
   maintainers:
@@ -150,18 +139,6 @@
   maintainers:
     - ncopa@alpinelinux.org
   licenses:
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: wasm-pack
-  binname: wasm-pack
-  visiblename: wasm-pack
-  version: 0.15.0
-  origversion: 0.15.0-2
-  status: outdated
-  summary: Your favorite rust -> wasm workflow tool!
-  licenses:
-    - MIT
     - Apache-2.0
 - repo: altsisyphus
   srcname: wasm-pack
@@ -237,19 +214,6 @@
   summary: Your favorite rust -> wasm workflow tool!
   maintainers:
     - tbier@posteo.de
-- repo: debian_14
-  subrepo: forky/main
-  srcname: wasm-pack
-  binnames:
-    - wasm-pack
-  visiblename: wasm-pack
-  version: 0.15.0
-  origversion: 0.15.0+ds-2
-  status: outdated
-  maintainers:
-    - dr@jones.dk
-  categories:
-    - javascript
 - repo: debian_unstable
   subrepo: sid/main
   srcname: wasm-pack
@@ -329,6 +293,30 @@
     - MIT
   categories:
     - devel
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: wasm-pack
+  binname: wasm-pack
+  visiblename: wasm-pack
+  version: 0.15.0
+  origversion: 0.15.0-2
+  status: outdated
+  summary: Your favorite rust -> wasm workflow tool!
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: wasm-pack
+  binname: wasm-pack
+  visiblename: wasm-pack
+  version: 0.15.1
+  origversion: 0.15.1-1
+  status: newest
+  summary: Your favorite rust -> wasm workflow tool!
+  licenses:
+    - MIT
+    - Apache-2.0
 - repo: msys2_clang64
   srcname: mingw-w64-wasm-pack
   binname: mingw-w64-clang-x86_64-wasm-pack-docs
@@ -371,22 +359,22 @@
     - spdx:MIT OR Apache-2.0
 - repo: msys2_ucrt64
   srcname: mingw-w64-wasm-pack
-  binname: mingw-w64-ucrt-x86_64-wasm-pack
-  visiblename: mingw-w64-ucrt-x86_64-wasm-pack
-  version: 0.15.1
-  origversion: 0.15.1-1
-  status: newest
-  summary: Your favorite rust -> wasm workflow tool! (mingw-w64)
-  licenses:
-    - spdx:MIT OR Apache-2.0
-- repo: msys2_ucrt64
-  srcname: mingw-w64-wasm-pack
   binname: mingw-w64-ucrt-x86_64-wasm-pack-docs
   visiblename: mingw-w64-ucrt-x86_64-wasm-pack-docs
   version: 0.15.1
   origversion: 0.15.1-1
   status: newest
   summary: Your favorite rust -> wasm workflow tool! (mingw-w64) (Documentation)
+  licenses:
+    - spdx:MIT OR Apache-2.0
+- repo: msys2_ucrt64
+  srcname: mingw-w64-wasm-pack
+  binname: mingw-w64-ucrt-x86_64-wasm-pack
+  visiblename: mingw-w64-ucrt-x86_64-wasm-pack
+  version: 0.15.1
+  origversion: 0.15.1-1
+  status: newest
+  summary: Your favorite rust -> wasm workflow tool! (mingw-w64)
   licenses:
     - spdx:MIT OR Apache-2.0
 - repo: nix_stable_24_05
@@ -402,6 +390,18 @@
     - Apache-2.0
     - MIT
 - repo: nix_stable_24_11
+  srcname: wasm-pack
+  visiblename: wasm-pack
+  version: 0.13.1
+  origversion: null
+  status: outdated
+  summary: Utility that builds rust-generated WebAssembly package
+  maintainers:
+    - david@davidslab.com
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_25_05
   srcname: wasm-pack
   visiblename: wasm-pack
   version: 0.13.1
@@ -596,6 +596,19 @@
   version: 0.15.0
   origversion: 0.15.0+ds-2
   status: outdated
+  maintainers:
+    - dr@jones.dk
+  categories:
+    - universe/javascript
+- repo: ubuntu_27_04_proposed
+  subrepo: tenacious-proposed/universe
+  srcname: wasm-pack
+  binnames:
+    - wasm-pack
+  visiblename: wasm-pack
+  version: 0.15.1
+  origversion: 0.15.1+ds-1
+  status: newest
   maintainers:
     - dr@jones.dk
   categories:
