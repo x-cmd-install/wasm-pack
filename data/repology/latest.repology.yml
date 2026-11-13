@@ -1,12 +1,12 @@
-- repo: debian_14
-  subrepo: forky/main
+- repo: devuan_unstable
+  subrepo: unstable/main
   srcname: wasm-pack
   binnames:
     - wasm-pack
   visiblename: wasm-pack
-  version: 0.15.0
-  origversion: 0.15.0+ds-2
-  status: outdated
+  version: 0.15.1
+  origversion: 0.15.1+ds-1
+  status: newest
   maintainers:
     - dr@jones.dk
   categories:
@@ -23,18 +23,6 @@
   maintainers:
     - alice@ayaya.dev
   licenses:
-    - Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: wasm-pack
-  binname: wasm-pack
-  visiblename: wasm-pack
-  version: 0.15.1
-  origversion: 0.15.1-1
-  status: newest
-  summary: Your favorite rust -> wasm workflow tool!
-  licenses:
-    - MIT
     - Apache-2.0
 - repo: alpine_3_18
   subrepo: community
@@ -194,6 +182,13 @@
   licenses:
     - Apache
     - MIT
+- repo: crates_io
+  srcname: wasm-pack
+  visiblename: wasm-pack
+  version: 0.15.1
+  origversion: null
+  status: newest
+  summary: "\U0001F4E6✨ your favorite rust -> wasm workflow tool!"
 - repo: crux_37
   subrepo: contrib
   srcname: wasm-pack
@@ -214,21 +209,21 @@
   summary: Your favorite rust -> wasm workflow tool!
   maintainers:
     - tbier@posteo.de
-- repo: debian_unstable
-  subrepo: sid/main
+- repo: debian_14
+  subrepo: forky/main
   srcname: wasm-pack
   binnames:
     - wasm-pack
   visiblename: wasm-pack
-  version: 0.15.1
-  origversion: 0.15.1+ds-1
-  status: newest
+  version: 0.15.0
+  origversion: 0.15.0+ds-2
+  status: outdated
   maintainers:
     - dr@jones.dk
   categories:
     - javascript
-- repo: devuan_unstable
-  subrepo: unstable/main
+- repo: debian_unstable
+  subrepo: sid/main
   srcname: wasm-pack
   binnames:
     - wasm-pack
@@ -317,16 +312,18 @@
   licenses:
     - MIT
     - Apache-2.0
-- repo: msys2_clang64
-  srcname: mingw-w64-wasm-pack
-  binname: mingw-w64-clang-x86_64-wasm-pack-docs
-  visiblename: mingw-w64-clang-x86_64-wasm-pack-docs
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: wasm-pack
+  binname: wasm-pack
+  visiblename: wasm-pack
   version: 0.15.1
   origversion: 0.15.1-1
   status: newest
-  summary: Your favorite rust -> wasm workflow tool! (mingw-w64) (Documentation)
+  summary: Your favorite rust -> wasm workflow tool!
   licenses:
-    - spdx:MIT OR Apache-2.0
+    - MIT
+    - Apache-2.0
 - repo: msys2_clang64
   srcname: mingw-w64-wasm-pack
   binname: mingw-w64-clang-x86_64-wasm-pack
@@ -335,6 +332,16 @@
   origversion: 0.15.1-1
   status: newest
   summary: Your favorite rust -> wasm workflow tool! (mingw-w64)
+  licenses:
+    - spdx:MIT OR Apache-2.0
+- repo: msys2_clang64
+  srcname: mingw-w64-wasm-pack
+  binname: mingw-w64-clang-x86_64-wasm-pack-docs
+  visiblename: mingw-w64-clang-x86_64-wasm-pack-docs
+  version: 0.15.1
+  origversion: 0.15.1-1
+  status: newest
+  summary: Your favorite rust -> wasm workflow tool! (mingw-w64) (Documentation)
   licenses:
     - spdx:MIT OR Apache-2.0
 - repo: msys2_clangarm64
